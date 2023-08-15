@@ -1,6 +1,6 @@
 # About Me 👨‍💻
 
-Hello there! I'm Luka Jeremić a programmer with a focus on backend development and a dash of frontend expertise. With a knack for crafting elegant and efficient code, I've had the privilege of contributing to a range of projects, from AI-driven solutions to real-world applications.
+Hello there! I'm a programmer with a focus on backend development and a dash of frontend expertise. With a knack for crafting elegant and efficient code, I've had the privilege of contributing to a range of projects, from AI-driven solutions to real-world applications.
 
 ## Expertise 🚀
 
