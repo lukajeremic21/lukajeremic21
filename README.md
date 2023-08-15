@@ -48,7 +48,7 @@ Here are some of the projects I've been involved in:
 - 🏥 **Medical Image AI Analysis:** On an ongoing quest to reshape medical diagnostics, I'm building a mobile app using AI and computer vision to provide swift and accurate insights into potential diseases.
 - ✂️ **Find My Barber:** In tandem with a colleague, I'm crafting "Find My Barber," an app that connects users with local barbers, making appointments a breeze.
 
-Education 🎓
+## Education 🎓
 🎓 Master of AI, University of Donja Gorica (2022 - Present)
 🎓 Bachelor of IT, University of Donja Gorica (2019 - 2022)
 
