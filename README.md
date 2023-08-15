@@ -9,6 +9,34 @@ Hello there! I'm a programmer with a focus on AI and backend development and a d
 - AI: I have a keen interest in artificial intelligence and have been involved in various AI projects that leverage cutting-edge technologies to solve complex problems.
 - Real-Life Experience: Beyond the digital realm, I've put my skills to the test in real-world scenarios, ensuring that my solutions are not just theoretical but practical and effective.
 
+
+## Skills 🛠️
+
+### Backend Development
+- PHP
+- Node.js
+- SQL (MSSQL, PL/SQL, MySQL)
+- Python
+- Java
+
+### Frontend Development
+- React
+- React Native
+- React Hooks
+
+### AI & Machine Learning
+- Machine Learning
+- Data Science
+  - Data Collection
+  - Data Processing
+  - Data Analysis
+  - Data Visualization
+- Computer Vision
+
+### Blockchain
+- Solidity
+
+
 ## Projects 🛠️
 
 Here are some of the projects I've been involved in:
@@ -20,13 +48,15 @@ Here are some of the projects I've been involved in:
 - 🏥 **Medical Image AI Analysis:** On an ongoing quest to reshape medical diagnostics, I'm building a mobile app using AI and computer vision to provide swift and accurate insights into potential diseases.
 - ✂️ **Find My Barber:** In tandem with a colleague, I'm crafting "Find My Barber," an app that connects users with local barbers, making appointments a breeze.
 
+Education 🎓
+🎓 Master of AI, University of Donja Gorica (2022 - Present)
+🎓 Bachelor of IT, University of Donja Gorica (2019 - 2022)
+
 ## Contact 📬
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lukajeremi%C4%87/). I'm always open to interesting collaborations and conversations!
 
 Looking forward to connecting with fellow developers and enthusiasts.
-
-Happy coding!
 
 
 <!--
