@@ -49,8 +49,8 @@ Here are some of the projects I've been involved in:
 - ✂️ **Find My Barber:** In tandem with a colleague, I'm crafting "Find My Barber," an app that connects users with local barbers, making appointments a breeze.
 
 ## Education 🎓
-🎓 Master of AI, University of Donja Gorica (2022 - Present)
-🎓 Bachelor of IT, University of Donja Gorica (2019 - 2022)
+- 🎓 Master of AI, University of Donja Gorica (2022 - Present)
+- 🎓 Bachelor of IT, University of Donja Gorica (2019 - 2022)
 
 ## Contact 📬
 
